@@ -8,37 +8,34 @@
 
 <br/>
 
+<!-- Adding GIF as a background visual element -->
 <div align="center">
-  <!-- Adding your live wallpaper GIF -->
-  <img src="https://i.gifer.com/LCPT.gif" alt="Live Wallpaper" width="100%" />
+  <img src="https://i.gifer.com/LCPT.gif" alt="Animated Background" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **an innovative software project**
- 
- 🌱 I’m currently learning **Docker, Kubernetes, and AWS**
+🎖️ I’m currently in 3rd Year Persuing Education from **VIT, Pune**
 
-💬 Ask me about **Node.js, React, AI, or anything [here](https://github.com/salesp07/salesp07/issues)**
+🌱 I’m learning **React.js, Node.js, Next.js**
 
-⚡ Fun fact **I love exploring new technologies!**
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
 </div>
  
 <div align="center"> 
-  <a href="mailto:bhishmadandekar@example.com">
+  <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/bhishma-dandekar" target="_blank">
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://bhishmadandekar.com" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
 
 <hr/>
  
@@ -64,6 +61,3 @@
 
 <hr/>
 
-<br/>
-
-<br/>
