@@ -1,23 +1,21 @@
-<iframe src="https://gifer.com/embed/LCPT" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bhishma+Dandekar!;+Welcome+To+My+Repo;" />
 </h1>
 
-<h3 align="center">A passionate software Engineer</h3>
-
-<br/>
-
-<!-- Adding GIF as a background visual element -->
+<!-- Adding GIF as an image -->
 <div align="center">
   <img src="https://i.gifer.com/LCPT.gif" alt="Animated Background" width="100%" />
 </div>
+
+<h3 align="center">A passionate software Engineer</h3>
 
 <br/>
 
 <div align="center">
  
-🎖️ I’m currently in 3rd Year Persuing Education from **VIT, Pune**
+🎖️ I’m currently in 3rd Year Pursuing Education from **VIT, Pune**
 
 🌱 I’m learning **React.js, Node.js, Next.js**
 
@@ -49,15 +47,4 @@
 <br/>
 <hr/>
 
-<div align="center">
-<!--   <h2>🐍 My Contributions 🐍</h2> -->
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<hr/>
-
+<div
