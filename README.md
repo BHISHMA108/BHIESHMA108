@@ -12,7 +12,7 @@
  
 🎖️ I’m currently in 3rd Year Persuing Education from **VIT, Pune**
 
-🌱 I’m currently learning **React.js, Node.js, Next.js**
+🌱 I’m learning **React.js, Node.js, Next.js**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
