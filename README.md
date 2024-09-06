@@ -15,13 +15,7 @@ A passionate software Engineer<br><br>I’m currently in 3rd Year Pursuing Educa
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BHISHMA679&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="center">
-  <h2>🌊 My Wave Contributions 🌊</h2>
-  <br>
-  <img alt="wave contribution animation" src="https://i.gifer.com/7uDb.gif" width="80%" />
-  <p>Ride the wave of my contributions!</p>
-  <br/><br/><br/>
-</div>
+<iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="468" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
 
 
 ---
