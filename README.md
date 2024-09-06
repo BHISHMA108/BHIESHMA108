@@ -16,12 +16,13 @@ A passionate software Engineer<br><br>I’m currently in 3rd Year Pursuing Educa
 ![](https://github-contributor-stats.vercel.app/api?username=BHISHMA679&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <div align="center">
-  <h2>🐉 My Dragon Contributions 🐉</h2>
+  <h2>🌊 My Wave Contributions 🌊</h2>
   <br>
-  <img alt="dragon flying" src="https://i.gifer.com/origin/64/646ba746b57972aa99ed4e545b8fdb56.gif" width="80%" />
-  <p>Watch the dragon guard my contributions!</p>
+  <img alt="wave contribution animation" src="https://i.gifer.com/7uDb.gif" width="80%" />
+  <p>Ride the wave of my contributions!</p>
   <br/><br/><br/>
 </div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BHISHMA679&icon=10&color=13)](https://visitcount.itsvg.in)
