@@ -7,7 +7,7 @@ A passionate software Engineer<br><br>I’m currently in 3rd Year Pursuing Educa
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BHISHMA679&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BHISHMA679&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BHISHMA679&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BHISHMA108&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
