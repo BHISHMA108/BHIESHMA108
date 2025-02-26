@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate software Engineer<br><br>I’m currently in 3rd Year Pursuing Education from VIT, Pune<br>I’m learning React.js, Node.js, Next.js<br>Creative and Innovative
+A passionate software Engineer<br><br>I’m currently in 3rd Year Pursuing Education from VIT, Pune<br>I’m learning Next.js and Redux with Redux Toolkit<br>Creative and Innovative
 
 
 # 💻 Tech Stack:
